@@ -703,12 +703,6 @@ If you use Glyphic AI in your research, please cite:
 }
 ```
 
-Commercial Use
-
-For commercial licensing, please contact:
-
-· Email: licensing@glyphic-ai.com
-· Website: https://commercial.glyphic-ai.com
 
 🙏 Acknowledgments
 
