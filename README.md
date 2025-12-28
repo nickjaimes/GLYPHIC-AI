@@ -4,11 +4,6 @@ Glyphic AI 🌀
 
 Ancient Maya Wisdom + Modern Neural Networks = Revolutionary AI Understanding
 
-https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python
-https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch
-https://img.shields.io/badge/TensorFlow-2.15+-FF6F00?style=for-the-badge&logo=tensorflow
-https://img.shields.io/badge/License-Maya%20Cultural%20Commons%202.5-green?style=for-the-badge
-https://img.shields.io/badge/arXiv-2600.01345-b31b1b?style=for-the-badge&logo=arxiv
 
 Glyphic AI revolutionizes artificial intelligence by integrating the sophisticated multi-layer encoding principles of Maya hieroglyphics with modern neural networks. Unlike conventional AI that processes information in isolated modalities, Glyphic AI understands the world through hierarchical semantic layers—just like Maya scribes combined visual symbols, phonetic elements, cultural context, and temporal markers into unified glyphs.
 
